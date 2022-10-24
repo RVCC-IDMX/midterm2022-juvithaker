@@ -39,6 +39,10 @@ header img{
 
 }
 #reviews{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: lightgreen solid 2px;
+    border: radius 50px;
     margin-top: 2rem;
     text-align: center;
 }
